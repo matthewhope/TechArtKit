@@ -1,0 +1,7 @@
+{
+    "name":         "com.mlhope.techartkit",
+    "version":      "0.1.0",
+    "description":  "TechArt tools for quick setup.",
+    "displayName":  "TechArt Kit",
+    "unity":        "2019.1"
+}
